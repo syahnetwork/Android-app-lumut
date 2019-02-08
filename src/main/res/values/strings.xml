@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lumutadam</string>
+    <string name="api_get_list_and_get_detail">API GET LIST AND GET DETAIL</string>
+    <string name="sinkron">SINKRON</string>
+    <string name="asinkron">ASINKRON</string>
+    <string name="terimakasih">Terimakasih</string>
+</resources>
